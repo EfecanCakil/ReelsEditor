@@ -3,6 +3,17 @@
 Windows için video kırpma, düzenleme ve Reels/TikTok/Shorts oluşturma masaüstü uygulaması.
 Electron + React + FFmpeg ile yazılmıştır; her şey bilgisayarınızda çalışır.
 
+## Ekran Görüntüleri
+
+**Karşılama ekranı:** Format seçerek yeni proje (9:16, 4:5, 1:1, 16:9), son projeler ve kısa kullanım rehberi
+![Karşılama ekranı](screenshots/karsilama.png)
+
+**Düzenleme ekranı:** Medya paneli, önizleme, zaman çizelgesi (video, metin, altyazı, müzik) ve özellik panelleri
+![Düzenleme ekranı](screenshots/editor.png)
+
+**Otomatik altyazı:** Whisper ile çevrimdışı konuşma tanıma; doğruluk seviyesi seçimi ve çeviri altyazı
+![Otomatik altyazı](screenshots/otomatik-altyazi.png)
+
 ## Özellikler
 
 - **Kırpma / kesme:** Zaman çizelgesinde klipleri kenarlarından kırpın, oynatma çubuğundan bölün (S), sürükleyerek sıralayın, silin.
